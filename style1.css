@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=Nanum+Gothic:wght@700&family=PT+Serif&display=swap');
+
+body {
+  background-color: white;
+}
+.div1 {
+  background-color: #161616;
+}
+.div1 h1 {
+  text-align: center;
+  color: white;
+  padding-top: 45px;
+  font-size: 62px;
+  font-weight: normal;
+}
+.div1 h5{
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  margin-top: -20px;
+  font-weight: normal;
+}
+
+.div1 li {
+  font-size: 20px;
+  text-align: center;
+  display: inline-block;
+  width: 30%; 
+}
+
+.div1 a {
+  color: white;
+  text-decoration: none;
+}
+
+.div1 ul {
+  border-top: 1px solid white;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  text-align: center;
+  margin-left: -50px;
+
+}
+
+.div1 a:hover {
+  color: rgb(255, 166, 0);
+}
+
+h2{
+  padding-top: 10px;
+  font-style: italic;
+  font-size: 30px;
+}
+.div2{
+  padding-top: 30px;
+  border-bottom: black 1px solid;
+  padding-bottom: 40px;
+ text-align: center;
+}
+.div3{
+  border-bottom: black 1px solid;
+  padding-bottom: 40px;
+  text-align: center;
+ }
+ .div4{
+  border-bottom: black 1px solid;
+  padding-bottom: 40px;
+  text-align: center;
+ }
+ .div5{
+  text-align: center;
+ }
+img{
+  padding: 30px;
+  max-width: 800px;;
+  height: auto;
+}
+
+.sr2{
+  width: 800px;
+}

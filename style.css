@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text&family=Nanum+Gothic:wght@700&family=PT+Serif&display=swap");
+
+body {
+  background-color: white;
+}
+.div1 {
+  background-color: #161616;
+}
+.div1 h1 {
+  text-align: center;
+  color: white;
+  padding-top: 45px;
+  font-size: 62px;
+  font-weight: normal;
+}
+.div1 h5 {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  margin-top: -20px;
+  font-weight: normal;
+}
+
+.div1 li {
+  font-size: 20px;
+  text-align: center;
+  display: inline-block;
+  width: 30%;
+}
+
+.div1 a {
+  color: white;
+  text-decoration: none;
+}
+
+.div1 ul {
+  border-top: 1px solid white;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  text-align: center;
+  margin-left: -50px;
+}
+
+.div1 a:hover {
+  color: rgb(255, 166, 0);
+}
+
+.div2 img {
+  padding-top: 50px;
+  max-width: 700px;
+  height: auto;
+  float: left;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.div2 h1 {
+  padding-top: 40px;
+  font-size: 30px;
+  padding-left: 750px;
+}
+.div2 p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 19px;
+  padding-left: 30px;
+}
+
+.div3 {
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+.div3 h1 {
+  font-size: 30px;
+  padding-left: 30px;
+}
+
+.div3 i {
+  font-size: 20px;
+  padding-left: 30px;
+}
+
+.div3 span {
+  font-weight: normal;
+  padding-left: 20px;
+  font-size: 22px;
+}
